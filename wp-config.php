@@ -26,9 +26,9 @@ if(strstr($_SERVER['SERVER_NAME'], 'essti.local')) {
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', 'localhost' );
 }else {
-	define( 'DB_NAME', 'id18975643_essti' );
-	define( 'DB_USER', 'id18975643_essti1	' );
-	define( 'DB_PASSWORD', 'Cal@phpdb000' );
+	define( 'DB_NAM E', 'id19034370_essti	' );
+	define( 'DB_USER', 'id19034370_admin		' );
+	define( 'DB_PASSWORD', 'Tc1B]_=zY5Ca8B|d' );
 	define( 'DB_HOST', 'localhost' );
 }
 	
