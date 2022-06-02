@@ -87,11 +87,11 @@
 					</div>
 				</div>
 			</div>
-			<div class="hero-slider__slide" style="background-image: url(<?php echo get_theme_file_uri('/images/shuttle launch.jpg'); ?>);">
+			<div class="hero-slider__slide" style="background-image: url(<?php echo get_theme_file_uri('/images/floating_shuttle.jpg'); ?>);">
 				<div class="hero-slider__interior container">
 					<div class="hero-slider__overlay">
 						<h2 class="headline headline--medium t-center">Build the future</h2>
-						<p class="t-center">Through our comprehensive programs we allow researchers to delve deeper into the secrets of the universe and make discoveries that push the development of our country</p>
+						<p class="t-center"> make discoveries that push the development of our country</p>
 						<p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
 					</div>
 				</div>
